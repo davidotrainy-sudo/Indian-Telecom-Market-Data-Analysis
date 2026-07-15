@@ -203,6 +203,6 @@ https://prod-in-a.online.tableau.com/t/davidotrainy-07aa460ae3/views/Indian-Tele
 
 Economics Graduate | Data Analytics | Business Intelligence
 
-GitHub: *((https://github.com/davidotrainy-sudo))*
+GitHub: *(https://github.com/davidotrainy-sudo)*
 
 LinkedIn: *(https://www.linkedin.com/in/david-otniel-2b9032268/)*
