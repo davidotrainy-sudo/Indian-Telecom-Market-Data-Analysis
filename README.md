@@ -167,7 +167,7 @@ Indian-Telecom-Market-Analysis/
 ## Dashboard Preview
 
 <img width="1250" height="1000" alt="Dashboard 1" src="https://github.com/user-attachments/assets/8e44ef70-a052-489c-93a0-3a97f97fcaea" />
-Link: https://prod-in-a.online.tableau.com/t/davidotrainy-07aa460ae3/views/Indian-Telecom-Market-Data-Analysis/Dashboard1?:origin=card_share_link&:embed=n
+https://prod-in-a.online.tableau.com/t/davidotrainy-07aa460ae3/views/Indian-Telecom-Market-Data-Analysis/Dashboard1?:origin=card_share_link&:embed=n
 
 ---
 
